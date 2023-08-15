@@ -16,3 +16,4 @@ Esse projeto será publicado no GitHub, para melhor entender como isso funciona 
     10 - Apesar de todos os comandos aplicados, nada foi de fato enviado ao github ainda, para isso: git push -u origin main.
     11 - Será necessário fazer login no github e autorizar esse computador a subir arquivos para a conta git.
     12 - Pronto, seu arquivo foi publicado no GitHub.
+    13 - Repositório do projeto em: https://github.com/OleGunnarDev/PythonAcademy
